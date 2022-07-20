@@ -2,12 +2,14 @@
 Estudo e Desafios de código em Typescript para o Bootcamp FullStack Santander realizado na plataforma DIO. 
 
 
-##Desafio 1
+## Desafio 1
+
 // Como podemos rodar isso em um arquivo .ts sem causar erros?
 
 let employee = {}; employee.code = 10; employee.name = "John";
 
-##Desafio 2
+## Desafio 2
+
 // Como podemos melhorar o esse código usando TS?
 
 let pessoa1 = {}; pessoa1.nome = "maria"; pessoa1.idade = 29; pessoa1.profissao = "atriz"
@@ -18,7 +20,8 @@ let pessoa3 = { nome: "laura", idade: "32", profissao: "Atriz" };
 
 let pessoa4 = { nome = "carlos", idade = 19, profissao = "padeiro" }
 
-##Desafio 3
+## Desafio 3
+
 // O código abaixo tem alguns erros e não funciona como deveria. Você pode identificar quais são e corrigi-los em um arquivo TS?
 
 let botaoAtualizar = document.getElementById('atualizar-saldo'); let botaoLimpar = document.getElementById('limpar-saldo'); let soma = document.getElementById('soma'); let campoSaldo = document.getElementById('campo-saldo');
